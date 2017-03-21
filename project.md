@@ -3,9 +3,14 @@ layout: page
 permalink: /projects/
 ---
 
-iPython Tensorflow Notebook Tutorials
+project 1 : bike share optimization
 ====================
-![](/assets/tf.jpg) 
+![](/assets/bike-share.png) 
 
-<a href="https://github.com/adeshpande3/TensorflowStuff/blob/master/ConvolutionalNeuralNet.ipynb" target="_blank">**Convolutional Neural Network Tutorial**</a> - This notebook shows you how to define a simple convolutional network using Tensorflow. We'll discuss how to load in datasets, how to create our network architecture using Tensorflow variables, as well as how to define loss functions and optimizers. 
-<br><br><a href="https://github.com/adeshpande3/Generative-Adversarial-Networks" target="_blank">**Generative Adversarial Network Tutorial**</a> - This notebook shows you how to create a simple GAN. The basic idea is that you have 2 different networks, a generator network and a discriminator network. The discriminative model has the task of determining whether a given image looks natural (an image from the dataset) or looks like it has been artificially created. The task of the generator is to create natural looking images that are similar to the original data distribution. In this tutorial, we'll look at how to create both models, and the unique process of training them to reach a Nash equilibrium. 
+<a href="https://github.com/khalidbouziane/Bake-share-optimization-using-neural-network/blob/master/dlnd-your-first-neural-network.ipynb" target="_blank">**Clich here to view the notebook**</a> - In this project, we'll get to build a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, we'll have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher level tools such as Tensorflow. You'll also get to see how to apply these networks to solve real prediction problems!
+
+project 1 : bike share optimization
+====================
+![](/assets/image-classification.png)
+
+<br><br><a href="https://github.com/khalidbouziane/Image_classification-using-CNN/blob/master/dlnd_image_classification.ipynb" target="_blank">**Click here to view the notebook**</a> - In this project, we'll classify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed, then train a convolutional neural network on all the samples. we'll normalize the images, one-hot encode the labels, build a convolutional layer, max pool layer, and fully connected layer. At the end, you'll see their predictions on the sample images.
