@@ -14,4 +14,4 @@ Project 2: Image Classification
 ![](/assets/image-classification.png)
 
 <a href="https://github.com/khalidbouziane/Image_classification-using-CNN/blob/master/dlnd_image_classification.ipynb" target="_blank">**Click here to view the notebook**</a> - In this project, we'll classify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed, then train a convolutional neural network on all the samples. we'll normalize the images, one-hot encode the labels, build a convolutional layer, max pool layer, and fully connected layer. At the end, you'll see their predictions on the sample images.<br />
-![_config1.yml]({{ site.baseurl }}/images/config1.png)
+
