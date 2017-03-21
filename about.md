@@ -21,5 +21,5 @@ Currently enrolling a Nanodegree with Udacity in deep learning and working on pr
 
 ### Contact me
 
-[khalid.bouziane@hotmail.com](mailto:khalid.bouziane@hotmail.com)
+[khalid.bouziane@hotmail.com](mailto:khalid.bouziane@hotmail.com)<br />
 [kbouziane@ncms.ae](mailto:kbouziane@ncms.ae)
