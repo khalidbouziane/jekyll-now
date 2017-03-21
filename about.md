@@ -17,7 +17,6 @@ Currently enrolling a Nanodegree with Udacity in deep learning and working on pr
 • Data visualization (Excel,Tableau, Seaborn , ggplot, Matplotlib).<br />
 • database/storage technologies (MySQL, PostgreSQL,SQLite).<br />
 
-### More Information
 For information about side projects I've done (neural nets, bake share optimization, image classification,, etc), check out my <a href="https://github.com/khalidbouziane"  target="_blank">github</a>.
 
 
