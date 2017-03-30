@@ -17,6 +17,6 @@ Project 2: Image Classification
 
 Project 3: TV-Script-Generation
 ====================
-![](/assets/image-classification.png)
+![](/assets/The-Simpsons.png)
 
 <a href="https://github.com/khalidbouziane/tv-script-generation-using-RNN/blob/master/dlnd_tv_script_generation.ipynb" target="_blank">**Click here to view the notebook**</a> - In this project, we'll generate your own Simpsons TV scripts using RNNs. we'll be using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network we'll build will generate a new TV script for a scene at Moe's Tavern.
