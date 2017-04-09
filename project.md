@@ -6,7 +6,7 @@ permalink: /projects/
 Project 1: Bike Share Optimization
 ====================
 ![](/assets/bike-share.png) 
-<img class="img-responsive" width="100%" src="{{ site.baseurl }}/img/synthetic_grads_paper.png" alt="">
+<img class="assets-responsive" width="100%" src="{{ site.baseurl }}/assets/bike-share.png" alt="">
 
 <a href="https://github.com/khalidbouziane/Bake-share-optimization-using-neural-network/blob/master/dlnd-your-first-neural-network.ipynb" target="_blank">**Click here to view the notebook**</a> - In this project, we'll get to build a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, we'll have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher level tools such as Tensorflow. You'll also get to see how to apply these networks to solve real prediction problems!
 
