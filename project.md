@@ -20,3 +20,9 @@ Project 3: TV-Script-Generation
 ![](/assets/The-Simpsons.png)
 
 <a href="https://github.com/khalidbouziane/tv-script-generation-using-RNN/blob/master/dlnd_tv_script_generation.ipynb" target="_blank">**Click here to view the notebook**</a> - In this project, we'll generate our own Simpsons TV scripts using RNNs. we'll be using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network we'll build will generate a new TV script for a scene at Moe's Tavern.
+
+Project 4: language-translation
+====================
+![](/assets/translate.jpg)
+
+<a href="https://github.com/khalidbouziane/Language_Translation/blob/master/dlnd_language_translation.ipynb" target="_blank">**Click here to view the notebook**</a> - In this project, you’re going to take a peek into the realm of neural network machine translation. You’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
