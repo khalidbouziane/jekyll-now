@@ -25,4 +25,4 @@ Project 4: language-translation
 ====================
 ![](/assets/translate.jpg)
 
-<a href="https://github.com/khalidbouziane/Language_Translation/blob/master/dlnd_language_translation.ipynb" target="_blank">**Click here to view the notebook**</a> - In this project, you’re going to take a peek into the realm of neural network machine translation. You’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
+<a href="https://github.com/khalidbouziane/Language_Translation/blob/master/dlnd_language_translation.ipynb" target="_blank">**Click here to view the notebook**</a> - In this project, we will take a peek into the realm of neural network machine translation. we’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
